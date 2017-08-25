@@ -1,7 +1,4 @@
-﻿
-    var WuValidate = function(){
-
-        
+﻿    var WuValidate = function(){        
         //获取验证元素盒子
         //绑定事件
         document.getElementsByClassName("validate-box")[0].addEventListener("keyup",function(ev){
