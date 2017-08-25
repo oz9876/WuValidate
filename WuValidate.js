@@ -106,5 +106,5 @@
     })(window, document);
 
     if (typeof module !== 'undefined' && module.exports) {
-        module.exports = WuValidate;
+        module.exports = WuValidate;  
     }
