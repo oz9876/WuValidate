@@ -1,4 +1,4 @@
-        (function(window, document, undefined) {
+﻿        (function(window, document, undefined) {
             //window.onload = function(){
             var WuValidate = function(){
 
@@ -106,5 +106,5 @@
     })(window, document);
 
     if (typeof module !== 'undefined' && module.exports) {
-        module.exports = FormValidator;
+        module.exports = WuValidate;
     }
